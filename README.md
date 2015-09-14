@@ -2,4 +2,5 @@
 OpenSCAD model of a configurable roller pinion and rack
 
 Originally wanted to utilize this [thing](http://www.thingiverse.com/thing:18110) but realized the files weren't manifold
-Went and created my own.
+
+Went and created my own which can be found [here](http://www.thingiverse.com/thing:1013816).
